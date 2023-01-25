@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMP-1005-2023-Winter-Testing", "CMP-1005-2023-Winter-Testing\CMP-1005-2023-Winter-Testing.csproj", "{5256B3BA-1E59-4521-B5A7-23B61E29B227}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMP-1005-2023-Winter-Testing-Tests", "CMP-1005-2023-Winter-Testing-Tests\CMP-1005-2023-Winter-Testing-Tests.csproj", "{9C82768D-2489-46B6-A233-E98904BC2574}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5256B3BA-1E59-4521-B5A7-23B61E29B227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5256B3BA-1E59-4521-B5A7-23B61E29B227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5256B3BA-1E59-4521-B5A7-23B61E29B227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5256B3BA-1E59-4521-B5A7-23B61E29B227}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C82768D-2489-46B6-A233-E98904BC2574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C82768D-2489-46B6-A233-E98904BC2574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C82768D-2489-46B6-A233-E98904BC2574}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C82768D-2489-46B6-A233-E98904BC2574}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {220DE1EF-3F11-4C13-A13C-0A4EFA72706A}
+	EndGlobalSection
+EndGlobal
